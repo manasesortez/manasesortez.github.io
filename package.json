@@ -15,7 +15,7 @@
   ],
   "author": "amtoDev",
   "license": "MIT",
-  "homepage": "https://manasesortez.github.io/resume-amtoDev/profile.html",
+  "homepage": "https://manasesortez.github.io/profile.html",
   "dependencies": {
     "bootstrap": "^5.1.3",
     "gh-pages": "^3.2.3"
