@@ -1,0 +1,23 @@
+{
+  "name": "portafolio-amtodev",
+  "version": "1.0.1",
+  "description": "that is a applicaction resume of alberto manases turcios ortez",
+  "main": "profile.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "resume": "node profile.html",
+    "deploy": "gh-pages -d src"
+  },
+  "keywords": [
+    "css",
+    "js",
+    "html"
+  ],
+  "author": "amtoDev",
+  "license": "MIT",
+  "homepage": "https://manasesortez.github.io/resume-amtoDev/profile.html",
+  "dependencies": {
+    "bootstrap": "^5.1.3",
+    "gh-pages": "^3.2.3"
+  }
+}
