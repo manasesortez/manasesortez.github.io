@@ -29,7 +29,7 @@
 
 		// Vars
 		var 
-			$ratNum = 7,
+			$ratNum = 4,
 			$rat = $(e).attr("data-rat"),
 			$point = "<span></span>";
 
@@ -148,9 +148,7 @@
 	/* ---------------------------------------------------------------------- */
 	/*	Portfolio
 	/* ---------------------------------------------------------------------- */ 
-	
-	// Needed variables
-	var $plist	 	= $('#portfolio-list');
+		var $plist	 	= $('#portfolio-list');
 	var $pfilter 		= $('#portfolio-filter');
 		
 	// Run Isotope  

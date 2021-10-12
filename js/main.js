@@ -29,7 +29,7 @@
 
 		// Vars
 		var 
-			$ratNum = 7,
+			$ratNum = 4,
 			$rat = $(e).attr("data-rat"),
 			$point = "<span></span>";
 
